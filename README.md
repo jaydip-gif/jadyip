@@ -1,2 +1,2 @@
-# jadyip
+# jaydip
 web devloping
